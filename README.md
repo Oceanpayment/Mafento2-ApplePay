@@ -1,1 +1,1 @@
-# Mafento2-ApplePay
+# Magento2-ApplePay
